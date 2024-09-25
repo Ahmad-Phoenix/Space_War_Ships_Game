@@ -1,0 +1,73 @@
+﻿  GameNew.cpp
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsMagazine.h(171,18): warning C4240: nonstandard extension used: access to 'clsMagazine::Node' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsMagazine.h(171,18): warning C4091: 'static ': ignored on left of 'clsMagazine::Node' when no variable is declared
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsMagazine.h(215,29): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsMagazine.h(216,29): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsMagazine.h(223,76): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsMagazine.h(251,65): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsMagazine.h(291,71): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsMagazine.h(370,21): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsShip.h(133,112): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsShip.h(142,112): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsShip.h(150,113): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsBackground.h(28,80): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsBackground.h(30,80): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsBackground.h(34,80): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsBackground.h(85,75): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(75,8): warning C4240: nonstandard extension used: access to 'clsPowerUps::clsHandlePowerUps::enPowerUps' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,60): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,60): warning C4244:         with
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,60): warning C4244:         [
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,60): warning C4244:             T=short
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,60): warning C4244:         ]
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,53): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,53): warning C4244:         with
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,53): warning C4244:         [
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,53): warning C4244:             T=short
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(60,53): warning C4244:         ]
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(211,25): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(246,12): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(254,12): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(333,12): warning C4244: '=': conversion from 'const float' to 'short', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(345,89): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(345,89): warning C4267:         with
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(345,89): warning C4267:         [
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(345,89): warning C4267:             T=short
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(345,89): warning C4267:         ]
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(348,44): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(348,50): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(359,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsGameStatistics.h(32,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsMainGameScreen.h(76,27): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(30,160): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(32,51): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,47): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,47): warning C4244:         with
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,47): warning C4244:         [
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,47): warning C4244:             T=short
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,47): warning C4244:         ]
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,40): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,40): warning C4244:         with
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,40): warning C4244:         [
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,40): warning C4244:             T=short
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(24,40): warning C4244:         ]
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,47): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,47): warning C4244:         with
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,47): warning C4244:         [
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,47): warning C4244:             T=short
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,47): warning C4244:         ]
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,40): warning C4244: 'argument': conversion from 'const float' to 'T', possible loss of data
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,40): warning C4244:         with
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,40): warning C4244:         [
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,40): warning C4244:             T=short
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsRandom.h(25,40): warning C4244:         ]
+  Generating code
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsShip.h(60): warning C4715: 'clsShip::_IsCollision': not all control paths return a value
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(304): warning C4715: 'clsPowerUps::ActiveSuperSpeedPower': not all control paths return a value
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsPowerUps.h(277): warning C4715: 'clsPowerUps::ActiveSuperShootPower': not all control paths return a value
+C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\GameNew\clsGameStatistics.h(118): warning C4715: 'clsGameStatistics::_RetrievalGameStatisticsFromRecord': not all control paths return a value
+  721 of 736 functions (98.0%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameNew.vcxproj -> C:\Users\Ahmad_Phoenix\Desktop\SpaceWarGame\x64\Release\GameNew.exe
